@@ -2,10 +2,8 @@
 
 An advanced, production-grade asynchronous data engineering pipeline designed to ingest unstructured parameters from live external Web APIs, execute programmatic transformation layers using Pandas matrices, and coordinate continuous execution cycles via embedded background cron systems.
 
-<!-- Professional Badges -->
-[![Python Version](https://shields.io)](https://python.org)
-[![Scheduler](https://shields.io)](https://readthedocs.io)
-[![License: MIT](https://shields.io)](https://opensource.org)
+`🌐 System: Data API Pipeline` | `⚡ Engine: APScheduler` | `📄 License: MIT`
+
 
 ## 🧠 System Architecture & Workflow
 * **`api_client.py`:** Holds the primary web communication infrastructure, calling external geospatial/weather endpoints via REST validation and returning structured JSON payloads.
