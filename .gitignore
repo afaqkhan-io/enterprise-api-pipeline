@@ -1,0 +1,8 @@
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+active_pipeline_snapshot.csv
+*.log
+.DS_Store
